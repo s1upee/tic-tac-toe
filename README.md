@@ -37,6 +37,8 @@ A terminal-based implementation of the classic Tic-Tac-Toe game written in C usi
    git clone https://github.com/s1upee/tic-tac-toe.git
    cd tic-tac-toe
 2. Compile the code: 
+   ```bash
    gcc -o tic_tac_toe tic_tac_toe.c -lncurses
 3. Run the game
+   ```bash
    ./tic_tac_toe
