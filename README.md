@@ -4,6 +4,22 @@ A terminal-based implementation of the classic Tic-Tac-Toe game written in C usi
 
 ---
 
+## Screenshots
+
+### Game Start
+![Game Start](pictures/Screenshot_start.png)
+
+### Gameplay
+![Gameplay](pictures/Screenshot_gameplay.png)
+
+### Game Over
+![Game Over](pictures/Screenshot_game_over.png)
+
+### Winner Announcement
+![Winner Announcement](pictures/Screenshot_winner.png)
+
+---
+
 ## Features
 
 - **Interactive Gameplay**: Play against another player with a clear and responsive terminal interface.
